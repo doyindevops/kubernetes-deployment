@@ -8,3 +8,4 @@ data:
     log_type all
     log_timestamp true
     listener 9001
+    
