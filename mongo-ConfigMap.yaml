@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 apiVersion: v1
 kind: ConfigMap
 metadata:
   name: mongodb-configmap
 data:
   database_url: mongodb-service
+=======
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mongodb-configmap
+data:
+  database_url: mongodb-service
+>>>>>>> 8afeb819f275f873669acecce28fd30ec0486aa7
